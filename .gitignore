@@ -1,8 +1,5 @@
 /.env
-/Atasan Validasi SKP.csv
-/all_nips.txt
-/df_log_20260213_124251.csv
-/df_log_20260213_124642.csv
-/df_log_20260213_124840.csv
-/df_vpd_akhir_tahun.pkl
-/df_vpd_tw4.pkl
+/*.pkl
+/*.csv
+/*.txt
+/*.xlsx
